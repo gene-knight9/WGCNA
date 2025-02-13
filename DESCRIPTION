@@ -1,6 +1,6 @@
 Package: WGCNA
-Version: 1.73
-Date: 2024-09-18
+Version: 1.74
+Date: 2025-02-13
 Title: Weighted Correlation Network Analysis
 Maintainer: Peter Langfelder <Peter.Langfelder@gmail.com>
 Depends: R (>= 3.0), dynamicTreeCut (>= 1.62), fastcluster
@@ -48,4 +48,4 @@ Author: Peter Langfelder [aut, cre],
   Andy Yip [aut],
   Bin Zhang [aut]
 Repository: CRAN
-Date/Publication: 2024-09-18 15:20:02 UTC
+Date/Publication: 2025-02-13 17:51:02 UTC

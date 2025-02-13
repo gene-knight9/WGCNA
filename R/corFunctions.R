@@ -111,7 +111,7 @@ bicor = function(x, y = NULL, robustX = TRUE, robustY = TRUE, use = 'all.obs', m
   res;
 }
 
-cor = function(x, y = NULL, use = "all.obs", method = c("pearson", "kendall", "spearman"),
+WGCNAcor = function(x, y = NULL, use = "all.obs", method = c("pearson", "kendall", "spearman"),
                weights.x = NULL, weights.y = NULL,
                quick = 0, 
                cosine = FALSE, 
